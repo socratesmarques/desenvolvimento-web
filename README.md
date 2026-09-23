@@ -4,7 +4,7 @@ Repositório com atividades práticas de desenvolvimento web usando HTML.
 
 ## Como acessar
 
-Abra o arquivo [index.html](index.html) no navegador e escolha uma atividade.
+Abra o arquivo [https://socratesmarques.github.io/desenvolvimento-web/](https://socratesmarques.github.io/desenvolvimento-web/) no navegador e escolha uma atividade.
 
 ## Atividades
 
